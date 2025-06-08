@@ -10,4 +10,4 @@ This project implements a simple Run-Length Encoding (RLE) library for compressi
 ## How to Run
 
 ```bash
-dotnet run --project RunLengthEncodingApp
+dotnet run --project RunLengthEncodingApp 
